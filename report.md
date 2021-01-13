@@ -1,7 +1,10 @@
 # Title
 ## Level 2 heading
 ### Level 3 Heading
- **bold** text
+**bold** text
+
+*itzlicize* text 
+ 
  
  list:
  - item1
